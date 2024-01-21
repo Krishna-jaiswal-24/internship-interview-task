@@ -149,7 +149,7 @@ const Footer = () => {
             </div>
           </div>
 
-          <div className="p-4 flex flex-row flex-wrap justify-between w-full mobile:flex-row  mobile:w-1/3">
+          <div className="p-4 flex flex-row flex-wrap justify-between  w-full gap-y-4   mobile:w-1/3">
             <div className="mr-44 mobile:mr-0">
               <span className="text-sm text-[#ffffff]/80">Connect</span>
               <ul>
@@ -164,7 +164,7 @@ const Footer = () => {
                 <li className="my-4">Disclaimer</li>
               </ul>
             </div>
-            <div className="mt-10 mobile:mt-0">
+            <div className="mobile:mt-0">
               <span className="text-sm text-[#ffffff]/80">About</span>
               <ul>
                 <li className="my-4">About us</li>

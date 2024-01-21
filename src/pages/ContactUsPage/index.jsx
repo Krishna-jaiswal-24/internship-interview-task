@@ -16,7 +16,7 @@ const ContactUsPage = () => {
           <p className="text-sm p-2 bg-[#1872E7]/15 w-32 text-[#1872E7] text-center rounded-3xl font-bold">
             CONTACT US
           </p>
-          <h1 className="font-crimson text-4xl font-bold w-80 mobile:w-[533px] my-4">
+          <h1 className="font-crimson text-4xl mobile:text-8xl font-bold w-80 mobile:w-[533px] my-4">
             We'd love to hear from you!
           </h1>
           <p className="text-[#999999] mobile:w-[533px] text-xl font-outfit font-medium ">
