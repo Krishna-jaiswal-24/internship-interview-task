@@ -1,9 +1,33 @@
-# React + Vite
+## Internship Interview Task: Project Setup
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# internship-interview-task
+This internship interview task involves setting up and running a project. Follow the steps below to complete the task:
+
+1. **Clone the repository:**
+   ``` bash
+    git clone https://github.com/Krishna-jaiswal-24/internship-interview-task
+    npm install
+    cd <project_directory>
+    npm run dev
+   ```
+
+2. **Open the project in your browser:**
+    ```bash
+     http://localhost:5173/
+     http://localhost:5173/contact 
+    
+    First link will open the details page and second link will open the contact page.
+    ```
+
+3. **Figma Link:**
+    https://www.figma.com/file/6z5XFFHWT2dHSrBWsvgyHq/Internship-interview-2?type=design&mode=design&t=mPRhlfA6qUrc8g6N-0
+
+
+
+
+### Contact Information
+
+If you have any questions or encounter issues during the setup process, feel free to reach out to Krishna Jaiswal.
+
